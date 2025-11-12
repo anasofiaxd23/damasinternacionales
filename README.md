@@ -6,13 +6,16 @@
 - Valentina Orjuela
   
 ---
-## lista de inovaciones
+## lista de innovaciones
 - se añadieron sugerencias para promover el aprendizaje.
 - tiene historial de movimientos.
 - numero de movimientos realizados.
 - marcador de puntos.
 - atajo para salir al menu.
 - tablero visualmmente facil de comprender y distinguir.
+## razon
+- las innovaciones se realizaron con el fin de mejorar la interfaz grafica para un mayor entendimiento del usuario, esta tambien promueve elaprendizaje a la hora de jugar ademas que aporta a la comodidad del usuario con comandos como marcador de puntos, numero de movimientos realizado y atajos para salir al menu.
+- la implementacion del comando sugerencia se realizo con el fin de permitir usuarios nuevos jugar sin probblemas
 ---
 Proyecto de consola en C++ modularizado (main.cpp, .h y .cpp) que implementa:
 - Tablero 10x10 con casillas diferenciadas.
