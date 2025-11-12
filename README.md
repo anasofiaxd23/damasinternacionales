@@ -6,6 +6,14 @@
 - Valentina Orjuela
   
 ---
+## lista de inovaciones
+- se añadieron sugerencias para promover el aprendizaje.
+- tiene historial de movimientos.
+- numero de movimientos realizados.
+- marcador de puntos.
+- atajo para salir al menu.
+- tablero visualmmente facil de comprender y distinguir.
+---
 Proyecto de consola en C++ modularizado (main.cpp, .h y .cpp) que implementa:
 - Tablero 10x10 con casillas diferenciadas.
 - 20 piezas por jugador (X para Jugador 1, O para Jugador 2).
