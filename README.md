@@ -3,7 +3,7 @@
 
 ## Integrantes
 - Ana Sofia Llorente Espinosa
-- Valentina Orjuela
+- Dana Valentina Orjuela Leguizamón
   
 ---
 ## Lista de innovaciones
